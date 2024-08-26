@@ -9,7 +9,7 @@ background-image: url(na.jpg)
 
 }
 .element {
-    background-image: url(na.jpg.jpg');
+    background-image: url(na.jpg.);
     background-size: 100% 100%; /* מותאם לגובה ורוחב של האלמנט */
     background-position: center;
     background-repeat: no-repeat;
